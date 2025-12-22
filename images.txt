@@ -4,4 +4,5 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 docker.io/dockurr/windows:latest
+# --platform=linux/arm64 docker.io/dockurr/windows:latest
+docker.io/dockurr/windows:latest
